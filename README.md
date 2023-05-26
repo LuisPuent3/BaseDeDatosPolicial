@@ -7,4 +7,4 @@
 1. MySQL
 2. WPF Aplication
 
-
+![Mapa relacional normalizado](Relacional.jpg)
