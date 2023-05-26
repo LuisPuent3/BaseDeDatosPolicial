@@ -7,4 +7,8 @@
 1. MySQL
 2. WPF Aplication
 
+#### MySQL EER 
+
+![Mapa relacional Workbench](EER.png)
+
 ![Mapa relacional normalizado](Relacional.jpg)
