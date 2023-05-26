@@ -1,4 +1,4 @@
-# BaseDeDatosPolicial
+# Base de datos policial
 
 #### Fundamentos bases de datos 
 #### Topicos Avanzados de Programacion 
